@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Regita!
 
-<!--
-**regitamharani/regitamharani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Introduction
+Lagi belajar dunia pemrograman, tertarik tentang AI, game, dan data analysis.  
+Just for fun 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tech Stack
+- 🌐 Web Programming: PHP, Python  
+- 🎨 UI/UX Design (suka bikin desain yang clean, imoet & user friendly)  
+- 🤖 Machine Learning:
+  - Data cleaning  
+  - Data analysis & statistics  
+  - Model building & deployment (basic level)
+
+---
+
+## 🌍 Social Media
+https://www.instagram.com/regitafk/
+
+---
+
+## 😄 Fun Facts
+"Semakin lama bergelut di dunia tech membuatku ingin menjadi peternak lele saja 🐟"
